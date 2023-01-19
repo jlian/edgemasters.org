@@ -9,25 +9,24 @@ blurb:
     directly from small scale sustainable farmers and make sure part of the
     profits are reinvested in their communities.
 intro:
-  heading: What we offer
-  text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+  heading: Who we are
+  text: Welcome to Edge Masters, a group of dedicated skiers who believe that the
+    sharpness of your edges can make or break your skiing experience. We are
+    dedicated to ensuring that our edges are always at their sharpest, no matter
+    the cost. We strive to push the limits of what is possible on the slopes and
+    are constantly looking for new and innovative ways to improve our edge
+    maintenance. Our goal is to attract like-minded skiers and grow our group to
+    the point where we can qualify for the Ikon group rate, giving us access to
+    some of the best ski resorts in the world. Join us and experience the
+    difference that a sharp edge can make.
 products:
-  - image: img/illustrations-coffee.svg
-    text: We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
-  - image: /img/illustrations-coffee-gear.svg
-    text: We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
+  - image: img/illustrations-tutorials.svg
+    text: Sharp edges, sharp turns, sharp experiences - Join Edge Masters today.
 values:
   heading: Our values
-  text: We believe that when you go skiing, the edges on those skis better be as
-    sharp as possible (ASAP). Otherwise, what's even the point?
+  text: Edge Masters is a group of skiers who value edge sharpness as the key to
+    the best skiing experience, innovation in edge maintenance techniques,
+    dedication to pushing limits and improve skills, building a strong community
+    of like-minded skiers and ultimate goal of accessing the best ski resorts in
+    the world through the Ikon group rate.
 ---

@@ -4,6 +4,7 @@ date: 2023-01-18T08:04:10.000Z
 description: >-
   Happy New Year skiers! As we welcome the new year, Edge Masters is excited to announce a new perk for our members.
 image: /img/blog-wax.png
+type: post
 ---
 
 We know that time is precious and waiting in line for your skis to be waxed can be a hassle, that's why we're introducing our "Hot Wax Express Lane" exclusively for our members.

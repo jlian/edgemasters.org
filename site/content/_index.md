@@ -1,7 +1,7 @@
 ---
 title: Edge Masters
 subtitle: The sharpest edges on their skis, no matter the cost.
-image: /img/home-jumbotron.jpg
+image: img/hero.jpg
 blurb:
   heading: Why Kaldi?
   text: Kaldi is the coffee store for everyone who believes that great coffee

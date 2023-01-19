@@ -31,6 +31,3 @@ values:
   text: We believe that when you go skiing, the edges on those skis better be as
     sharp as possible (ASAP). Otherwise, what's even the point?
 ---
-#﻿# Try to use H2
-
-Does this even work lol? 

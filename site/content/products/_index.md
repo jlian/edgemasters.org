@@ -7,17 +7,18 @@ description: "If you're a skier who believes that edge sharpness is key to the
 intro:
   blurbs:
     - image: /img/illustrations-dedicated.svg
-      text: Dedicated to ensuring that our edges are always at their sharpest,
-        no matter the cost.
+      text: Dedicated to ensuring that our edges are always at their sharpest, no
+        matter the cost.
     - image: /img/illustrations-innovation.svg
-      text: New and innovative ways to improve our
-        edge maintenance techniques, so you can be sure that you'll be skiing on
-        the best edges possible.
+      text: New and innovative ways to improve our edge maintenance techniques, so you
+        can be sure that you'll be skiing on the best edges possible.
     - image: /img/illustrations-community.svg
       text: We also value the community aspect, and strive to attract like-minded
         skiers.
     - image: /img/illustrations-resort.svg
-      text: Plus, as our group grows, we aim to qualify for the Ikon group rate, which will give our members access to some of the best ski resorts in the world.
+      text: Plus, as our group grows, we aim to qualify for the Ikon group rate, which
+        will give our members access to some of the best ski resorts in the
+        world.
   heading: What we offer
   description: If you're a skier who believes that edge sharpness is key to the
     best skiing experience, then Edge Masters is the group for you.
@@ -41,12 +42,12 @@ main:
     image: img/group.jpg
 testimonials:
   - author: Big Ginger King
-    quote: I've been a member of Edge Masters for a few months now, and I can
-      honestly say that it's been one of the best decisions I've made as a
-      skier. The level of edge maintenance that the group does is top-notch and
-      it's made such a difference in my skiing experience. I'm also really
-      enjoying being a part of the community and skiing with a group of
-      like-minded individuals.
+    quote: I reached out to Edge Masters about joining the group, but I never heard
+      back from them. I sent an email and left a message on the phone, but never
+      received a response. I was really excited about the idea of being part of
+      a group that values edge maintenance, but their lack of communication was
+      a huge disappointment. I hope they can improve their customer service in
+      the future.
   - author: Linda Lian
     quote: Since joining Edge Masters, I've seen a noticeable improvement in my
       skiing. The attention to detail and commitment to edge sharpness is
@@ -65,14 +66,14 @@ pricing:
         - Access to our edge maintenance techniques and equipment
         - Access to our online community
       plan: Silver
-      price: "0.99/s"
+      price: 0.99/s
     - description: Next level edge maintenance
       items:
         - Access to our edge maintenance techniques and equipment
         - Invitations to our events and meetups
         - Access to our online community
       plan: Gold
-      price: "1.99/s"
+      price: 1.99/s
     - description: The ultimate skiing experience
       items:
         - Access to our edge maintenance techniques and equipment
@@ -81,6 +82,6 @@ pricing:
           the world (once the group qualifies for the Ikon group rate)
         - Access to our online community
       plan: Platinum
-      price: "9.99/s"
+      price: 9.99/s
 type: products
 ---

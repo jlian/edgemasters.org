@@ -1,102 +1,71 @@
 ---
-title: Our Coffee
-type: products
+title: Membership
 image: /img/products-jumbotron.jpg
 heading: What we offer
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+description: "If you're a skier who believes that edge sharpness is key to the
+  best skiing experience, then Edge Masters is the group for you. "
 intro:
   blurbs:
     - image: /img/illustrations-coffee.svg
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+      text: We are dedicated to ensuring that our edges are always at their sharpest,
+        no matter the cost.
     - image: /img/illustrations-coffee-gear.svg
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+      text: Our group is constantly looking for new and innovative ways to improve our
+        edge maintenance techniques, so you can be sure that you'll be skiing on
+        the best edges possible.
     - image: /img/illustrations-tutorials.svg
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/illustrations-meeting-space.svg
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+      text: We also value the community aspect, and strive to attract like-minded
+        skiers.
   heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  description: If you're a skier who believes that edge sharpness is key to the
+    best skiing experience, then Edge Masters is the group for you.
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: Great skiing with no compromises
+  description: Joining Edge Masters gives you access to a group of dedicated
+    individuals who share your passion for skiing and edge maintenance. Plus, as
+    our group grows, we aim to qualify for the Ikon group rate, which will give
+    our members access to some of the best ski resorts in the world. By joining
+    Edge Masters, you'll be able to ski at the highest level possible, in some
+    of the best locations, surrounded by a supportive community of dedicated
+    skiers.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: Sharp edges, Sharp turns
+    image: img/carving.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    alt: Innovative edge maintenance techniques
+    image: img/sharpen.jpg
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+    alt: Join a community of dedicated skiers
+    image: img/group.jpg
 testimonials:
   - author: Elisabeth Kaurismäki
-    quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
+    quote: I've been a member of Edge Masters for a few months now, and I can
+      honestly say that it's been one of the best decisions I've made as a
+      skier. The level of edge maintenance that the group does is top-notch and
+      it's made such a difference in my skiing experience. I'm also really
+      enjoying being a part of the community and skiing with a group of
+      like-minded individuals.
   - author: Philipp Trommler
-    quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
-full_image: /img/products-full-width.jpg
+    quote: Since joining Edge Masters, I've seen a noticeable improvement in my
+      skiing. The attention to detail and commitment to edge sharpness is
+      impressive. Not only that, but the community aspect is fantastic. It's
+      great to be part of a group where everyone is passionate about skiing and
+      wants to push themselves to be better. I'm looking forward to skiing with
+      Edge Masters for many years to come.
+full_image: img/background.jpg
 pricing:
-  heading: Monthly subscriptions
-  description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+  heading: Member fees
+  description: We're open to all who are passionate about edge maintenance and
+    want to join our community of dedicated skiers.
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: All benefits included
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-nsoving couples and bigger crowds'
-      items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
-      items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: '?'
+        - Access to our edge maintenance techniques and equipment
+        - Invitations to our events and meetups
+        - Opportunities to ski with the group at some of the best ski resorts in
+          the world (once the group qualifies for the Ikon group rate)
+        - Access to our online community
+      plan: Platinum
+      price: "0"
+type: products
 ---
-
-

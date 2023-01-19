@@ -17,11 +17,9 @@ intro:
     are constantly looking for new and innovative ways to improve our edge
     maintenance. Our goal is to attract like-minded skiers and grow our group to
     the point where we can qualify for the Ikon group rate, giving us access to
-    some of the best ski resorts in the world. Join us and experience the
-    difference that a sharp edge can make.
-products:
-  - image: img/illustrations-tutorials.svg
-    text: Sharp edges, sharp turns, sharp experiences - Join Edge Masters today.
+    some of the best ski resorts in the world. Sharp edges, sharp turns, sharp
+    experiences - Join Edge Masters today.
+products: []
 values:
   heading: Our values
   text: Edge Masters is a group of skiers who value edge sharpness as the key to

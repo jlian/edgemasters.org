@@ -28,6 +28,8 @@
 	<meta property="og:url" content="/">
 	<meta property="og:image" content="/img/edge-master.png">
 
+	{{ template "_internal/opengraph.html" . }}
+
   {{ if .IsHome }}
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   {{ end }}

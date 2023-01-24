@@ -63,20 +63,22 @@ pricing:
   plans:
     - description: Sharp edges, sharp turns, sharp experiences
       items:
-        - Access to our edge maintenance techniques and equipment
+        - Access to our edge maintenance techniques
         - Access to our online community
       plan: Silver
       price: 0.99/s
     - description: Next level edge maintenance
       items:
-        - Access to our edge maintenance techniques and equipment
+        - Access to our edge maintenance techniques
+        - Chance to receive gear through "The Cycle"
         - Invitations to our events and meetups
         - Access to our online community
       plan: Gold
       price: 1.99/s
     - description: The ultimate skiing experience
       items:
-        - Access to our edge maintenance techniques and equipment
+        - Access to our edge maintenance techniques
+        - Receive and request gear through "The Cycle"
         - Invitations to our events and meetups
         - Opportunities to ski with the group at some of the best ski resorts in
           the world (once the group qualifies for the Ikon group rate)

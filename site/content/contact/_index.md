@@ -1,7 +1,6 @@
 ---
 title: "Contact"
 logo: "/img/logo.svg"
-images: "/img/logo.svg"
 contact_entries:
   - heading: Location
     text: "123 Ski Lane, Ski Town, USA 0000"

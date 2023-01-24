@@ -4,7 +4,7 @@ date: 2023-01-24T06:48:23.164Z
 description: At Edge Masters, we're always looking for ways to enhance the
   skiing experience for our members. That's why we're excited to announce a new
   benefit for our members, "The Cycle."
-images: img/blog-cycle.png
+image: img/blog-cycle.png
 ---
 This benefit is designed to help our members get access to high-quality ski gear at an affordable price, while also being environmentally friendly.
 

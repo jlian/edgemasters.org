@@ -3,7 +3,7 @@ title: "Edge of Danger: Origins"
 date: 2022-12-13T01:15:10.000Z
 description: >-
   Ski racing is not just a sport, it's a matter of life and death. When Ayaka's coach is found dead, she discovers a dangerous secret society of skiers who will stop at nothing to have the sharpest edges on their skis. Join Ayaka and her friend Kana as they race against time to uncover the truth and stop the Edge Masters.
-image: /img/blog-edge-master.png
+images: /img/blog-edge-master.png
 type: post
 ---
 

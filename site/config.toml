@@ -5,12 +5,7 @@ title = "Edge Masters"
 
 [params]
   description = 'Sharp edges, sharp turns, sharp experiences'
-<<<<<<< HEAD
   title = 'Edge Masters'
-=======
-  images = ['/img/edge-master.png']
-  title = 'Edge Masters | Sharp edges, sharp turns, sharp experiences'
->>>>>>> parent of 8777c37... I don't care that much about OpenGraph to fix this
 
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 

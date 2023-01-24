@@ -3,7 +3,7 @@ title: 'New Year, New Perk: Exclusive Access to our "Hot Wax Express Lane"'
 date: 2023-01-18T08:04:10.000Z
 description: >-
   Happy New Year skiers! As we welcome the new year, Edge Masters is excited to announce a new perk for our members.
-images: /img/blog-wax.png
+image: /img/blog-wax.png
 type: post
 ---
 

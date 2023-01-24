@@ -1,6 +1,6 @@
 ---
 title: Membership
-images: /img/products-jumbotron.jpg
+image: /img/products-jumbotron.jpg
 heading: What we offer
 description: "If you're a skier who believes that edge sharpness is key to the
   best skiing experience, then Edge Masters is the group for you. "

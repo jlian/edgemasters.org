@@ -22,7 +22,7 @@ export default class ValuesPreview extends React.Component {
   render() {
     const {entry, getAsset} = this.props;
     
-    let image = getAsset(entry.getIn(["data", "image"]));
+    let image = getAsset(entry.getIn(["data", "images"]));
 
     // Bit of a nasty hack to make relative paths work as expected as a background image here
     if (image && !image.fileObj) {

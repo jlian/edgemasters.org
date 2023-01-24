@@ -5,7 +5,6 @@ title = "Edge Masters"
 
 [params]
   description = 'Sharp edges, sharp turns, sharp experiences'
-  images = ['/img/edge-master.png']
   title = 'Edge Masters'
 
 # RSS, categories and tags disabled for an easy start

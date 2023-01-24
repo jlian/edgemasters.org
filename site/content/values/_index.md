@@ -1,7 +1,6 @@
 ---
 title: Values
-images: 
-- img/edge.png
+image: img/edge.png
 values:
   - heading: Edge sharpness is key
     text: We believe that the sharpness of our edges is the most important factor in

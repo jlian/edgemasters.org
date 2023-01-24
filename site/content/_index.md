@@ -1,8 +1,13 @@
 ---
 title: Home
 subtitle: The sharpest edges on the skis, no matter the cost.
+<<<<<<< HEAD
+image: img/hero.png
 images: 
-- /img/hero.png
+- /img/edge-master.png
+=======
+images: img/hero.png
+>>>>>>> parent of 8777c37... I don't care that much about OpenGraph to fix this
 intro:
   heading: Who we are
   text: Welcome to Edge Masters, a group of dedicated skiers who believe that the

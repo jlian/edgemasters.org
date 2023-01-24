@@ -39,7 +39,7 @@ main:
     image: img/sharpen.jpg
   image3:
     alt: Join a community of dedicated skiers
-    image: img/group.jpg
+    image: img/group.png
 testimonials:
   - author: Big Ginger King
     quote: I reached out to Edge Masters about joining the group, but I never heard

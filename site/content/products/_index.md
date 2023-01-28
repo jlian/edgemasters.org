@@ -48,12 +48,14 @@ testimonials:
       a group that values edge maintenance, but their lack of communication was
       a huge disappointment. I hope they can improve their customer service in
       the future.
-  - author: Jake Burton
-    quote: I was really excited to join Edge Masters, but I was disappointed to find
-      out that they only accept skiers. I believe that everyone should have the
-      opportunity to enjoy the sport, regardless of whether they ski or
-      snowboard. This policy of exclusion seems discriminatory to me and I would
-      not recommend Edge Masters to anyone who values inclusivity.
+  - author: Spencer White
+    quote: As a skier, I have found that Edge Masters offers a great service for
+      maintaining and sharpening my ski edges. The staff is knowledgeable and
+      efficient, and I have always been satisfied with the results. However, I
+      do understand the concerns about their previous policy towards
+      snowboarders and am glad to see that they have recognized and addressed
+      those issues. Overall, I have had a positive experience with Edge Masters
+      and would recommend them to other skiers.
 full_image: img/background.jpg
 pricing:
   heading: Tiers

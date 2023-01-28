@@ -1,9 +1,9 @@
 ---
 title: Home
-subtitle: The sharpest edges on the skis, no matter the cost.
+subtitle: The sharpest edges. No matter the cost.
 image: img/hero.png
-images: 
-- /img/edge-master.png
+images:
+  - /img/edge-master.png
 intro:
   heading: Who we are
   text: Welcome to Edge Masters, a group of dedicated skiers who believe that the

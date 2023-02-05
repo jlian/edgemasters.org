@@ -1,5 +1,5 @@
 ---
-title: Membership
+title: Membersnip
 image: /img/products-jumbotron.jpg
 heading: What we offer
 description: "If you're a skier who believes that edge sharpness is key to the

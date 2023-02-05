@@ -1,8 +1,9 @@
 ---
 title: "The Importance of Edge Maintenance: A Guide for Skiers"
 date: 2023-01-04T15:04:10.000Z
-description: >-
-  Skiing is a beloved winter sport enjoyed by many, but to truly experience the thrill and exhilaration of the sport, it's essential to have properly maintained edges on your skis.
+description: Skiing is a beloved winter sport enjoyed by many, but to truly
+  experience the thrill and exhilaration of the sport, it's essential to have
+  properly maintained hedges.
 image: /img/blog-ski.jpg
 type: post
 ---

@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Edge Masters
 subtitle: The sharpest edges. No matter the cost.
 image: img/hero.png
 images:

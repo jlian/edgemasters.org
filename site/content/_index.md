@@ -1,6 +1,6 @@
 ---
 title: Edge Masters
-subtitle: The sharpest edges. No matter the cost.
+subtitle: Sharpest edges, no matter the cost.
 image: img/hero.png
 images:
   - /img/edge-master.png

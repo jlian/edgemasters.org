@@ -36,21 +36,13 @@ main:
     alt: Join a community of dedicated skiers
     image: img/group.png
 testimonials:
-  - author: Big Ginger King
+  - author: Pat “Big Ginger King” V.
     quote: I reached out to Edge Masters about joining the group, but I never heard
       back from them. I sent an email and left a message on the phone, but never
       received a response. I was really excited about the idea of being part of
       a group that values edge maintenance, but their lack of communication was
       a huge disappointment. I hope they can improve their customer service in
       the future.
-  - author: Spencer White
-    quote: As a skier, I have found that Edge Masters offers a great service for
-      maintaining and sharpening my ski edges. The staff is knowledgeable and
-      efficient, and I have always been satisfied with the results. However, I
-      do understand the concerns about their previous policy towards
-      snowboarders and am glad to see that they have recognized and addressed
-      those issues. Overall, I have had a positive experience with Edge Masters
-      and would recommend them to other skiers.
   - quote: I never thought I'd be a fan of a ski maintenance group, but Edge Masters
       has changed my tune. Not only do they keep my skis in top shape, but they
       also provide me with the freshest memes. My social media game has never
@@ -60,7 +52,13 @@ testimonials:
   - quote: I was sold by the testimonies and Edge Masters commitment to fairness and
       equality. I, too, like sharp edging and equality. I couldn’t pass up this
       opportunity and decided to join today!
-    author: Julie “Core Gamer” Zhang
+    author: Julie “Core Gamer” Z.
+  - quote: I joined Edge Masters thinking they were all about landscaping and garden
+      design, but boy was I surprised to find out it was all about ski edging!
+      Nonetheless, I've learned so much about maintaining my skis and having a
+      great time on the slopes with the group. They've even converted me into a
+      ski enthusiast. Who knew edging could be so thrilling!
+    author: Arnold Bladely
 full_image: img/background.jpg
 pricing:
   heading: Tiers

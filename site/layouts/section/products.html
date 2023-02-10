@@ -2,14 +2,13 @@
 
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
 
-{{ partial "4-up" .Params.intro }}
-
+{{ partial "table" .Params.pricing }}
 
 {{ with .Params.main }}
 <div class="mw7 center">
-  <div class="mw6 ph3 mb3">
-    <h3 class="f3 b lh-title mb2">{{ .heading }}</h3>
-    <p>{{ .description }}</p>
+  <div class="ph3 mb3">
+    <h2 class="f2 b lh-title mb2 tc">{{.heading}}</h2>
+    {{ partial "join" . }}
   </div>
 </div>
 
@@ -17,15 +16,15 @@
 {{ partial "image-grid" . }}
 {{ end }}
 
-<div class="pb4">
-  {{ range .Params.testimonials }}
-    {{ partial "blockquote" . }}
-  {{ end }}
-</div>
+{{ partial "4-up" .Params.intro }}
 
 <!-- Full-width image -->
 <img src="{{ .Params.full_image }}" alt="" class="db w-100">
 
-{{ partial "table" .Params.pricing }}
+<div class="mv4">
+  {{ range .Params.testimonials }}
+  {{ partial "blockquote" . }}
+  {{ end }}
+</div>
 
 {{ end }}

@@ -1,5 +1,5 @@
 ---
-title: Membersnip
+title: Membership
 image: /img/products-jumbotron.jpg
 heading: What we offer
 description: "If you're a skier who believes that edge sharpness is key to the
@@ -19,18 +19,12 @@ intro:
       text: Plus, as our group grows, we aim to qualify for the Ikon group rate, which
         will give our members access to some of the best ski resorts in the
         world.
-  heading: What we offer
+  heading: The possibilities are endless
   description: If you're a skier who believes that edge sharpness is key to the
-    best skiing experience, then Edge Masters is the group for you.
+    best skiing experience, then Edge Masters is the group for you, for the long-haul.
 main:
-  heading: Great skiing with no compromises
-  description: Joining Edge Masters gives you access to a group of dedicated
-    individuals who share your passion for skiing and edge maintenance. Plus, as
-    our group grows, we aim to qualify for the Ikon group rate, which will give
-    our members access to some of the best ski resorts in the world. By joining
-    Edge Masters, you'll be able to ski at the highest level possible, in some
-    of the best locations, surrounded by a supportive community of dedicated
-    skiers.
+  heading: The sharpest edges. The best slopes. Unleash the ski revolution. 
+  description: 
   image1:
     alt: Sharp edges, Sharp turns
     image: img/action.png
@@ -62,29 +56,25 @@ pricing:
   description: We're open to all who are passionate about edge maintenance and
     want to join our community of dedicated skiers.
   plans:
-    - description: Sharp edges, sharp turns, sharp experiences
+    - description: Sharp edges
       items:
         - Access to our edge maintenance techniques
         - Access to our online community
       plan: Silver
-      price: 0.99/s
+      price: 0.00
     - description: Next level edge maintenance
       items:
-        - Access to our edge maintenance techniques
+        - Includes all benefits from Silver tier
         - Chance to receive gear through "The Cycle"
         - Invitations to our events and meetups
-        - Access to our online community
       plan: Gold
-      price: 1.99/s
-    - description: The ultimate skiing experience
+      price: 0.00
+    - description: The ultimate sharpness
       items:
-        - Access to our edge maintenance techniques
-        - Receive and request gear through "The Cycle"
-        - Invitations to our events and meetups
+        - Includes all benefits from Gold tier
         - Opportunities to ski with the group at some of the best ski resorts in
           the world (once the group qualifies for the Ikon group rate)
-        - Access to our online community
       plan: Platinum
-      price: 9.99/s
+      price: 0.00
 type: products
 ---
